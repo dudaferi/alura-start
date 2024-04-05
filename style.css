@@ -1,8 +1,10 @@
+
 body{
-    background-color: #9961da;
-     color: aliceblue;
-} 
+    background-color: #000000;
+    color: #ffffff;
+
+}
 
 .logo{
-    width: 25% 
+    width: 25%;
 }
